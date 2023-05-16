@@ -1,5 +1,5 @@
 # VideoLibrary
-A Video Library that displays and allows person attributes to be searched. PyQt5 used for GUI
+A Video Library that displays and allows person attributes to be searched. PyQt5 used for GUI, mongodb used for storing video attributes and elasticsearch used for indexing and searching.
 
 
 
