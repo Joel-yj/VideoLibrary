@@ -1,0 +1,16 @@
+Elasticsearch server details
+
+elastic
+0X=9*RicED0HZvTrYrxN
+
+
+mongodb:
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+to run mongodb:
+brew services start mongodb-community@6.0
+
+to begin using mongodb in terminal
+mongosh
+
+to stop mongodb
+brew services stop mongodb-community@6.0

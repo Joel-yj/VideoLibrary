@@ -1,0 +1,6 @@
+video_path,age,carrying_backpack,carrying_bag,carrying_handbag,lower_body_clothing,length_of_lower_body_clothing,sleeve_length,hair_length,wearing_hat,gender,color_upper_body_clothing,color_lower_body_clothing
+videos/test1.mp4,22,F,T,F,pants,long,short,long,F,M,Blue,Yellow
+videos/test2.mp4,31,T,F,T,shorts,short,long,short,F,F,Green,Red
+videos/test3.mp4,64,F,T,F,jeans,long,long,long,T,F,White,Green
+videos/test4.mp4,45,T,F,T,dress,long,short,short,T,F,Black,White
+videos/test5.mp4,19,F,F,T,skirt,short,short,short,F,F,Red,Blue
